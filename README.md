@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jaydev Solanki
-- 👀 I’m interested in Flutter Development
-- 🌱 I’m currently learning Dart Language
-- 💞️ I’ve completed Training in Android Development(Java)
+- 👀 I’m interested in MERN Stack
+- 🌱 I’m currently learning with CodeHelp
+- 💞️ I’ve have expertise in Laravel Development
 - 📫 How to reach me : jaydev.solanki888@gmail.com
 
 <!---
